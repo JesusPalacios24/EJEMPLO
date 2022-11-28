@@ -17,6 +17,7 @@ public class Asdas {
     public static void main(String[] args) {
         System.out.println("sadsdasda wd");
         System.out.println("asda csdcsd eeeeeeeeeeeeeee");
+        System.out.println("asda wwwwwwwwwwwwwwwwww 777");
     }
     
 }
